@@ -1,5 +1,4 @@
-| | |
-|----------|:-------------:|
-| Curso |  Sistemas de Informação |
-| Turma | 4º Noturno   |   $12 |
-| Disciplina | Frameworks BackEnd |
+| Curso | Turma | Disciplina |
+|:----------:|:-------------:|:------------:| 
+| Sistema de Informação |  4º Noturno | Frameworks Backend |
+
