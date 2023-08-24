@@ -1,5 +1,5 @@
-| Tables   |      Are      |  Cool |
-|----------|:-------------:|------:|
-| Curso |  Sistemas de Informação | $1600 |
+| Tables   |      Are      |
+|----------|:-------------:|
+| Curso |  Sistemas de Informação |
 | Turma | 4º Noturno   |   $12 |
-| Disciplina | Frameworks BackEnd |    $1 |
+| Disciplina | Frameworks BackEnd |
