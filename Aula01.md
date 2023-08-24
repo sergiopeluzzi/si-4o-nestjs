@@ -18,4 +18,4 @@
 
 5. Acessando e configurando
 Acesse a pasta do projeto com `cd project-name` e rode o comando para iniciar o Nest em modo de desenvolvimento com o comando `npm run start:dev`
-Você pode acessar e ver a aplicação rodando em (Localhost)[http://localhost:3000]
+Você pode acessar e ver a aplicação rodando em http://localhost:3000
